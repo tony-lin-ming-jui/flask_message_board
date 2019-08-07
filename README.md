@@ -9,7 +9,7 @@
 ![image](https://github.com/tony-lin-ming-jui/flask_message_board/blob/master/%E8%A8%BB%E5%86%8A.JPG)  
 4.修改留言:  
 ![image](https://github.com/tony-lin-ming-jui/flask_message_board/blob/master/%E4%BF%AE%E6%94%B9.JPG)  
-管理員:
+管理員:  
 1.用戶管理  
 ![image](https://github.com/tony-lin-ming-jui/flask_message_board/blob/master/%E7%94%A8%E6%88%B6%E7%AE%A1%E7%90%86.JPG)
 2.留言版管理
